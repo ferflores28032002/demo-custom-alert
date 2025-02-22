@@ -14,6 +14,7 @@ const App = () => {
         confirmButton: "swal-button swal-confirm-button",
         cancelButton: "swal-button swal-cancel-button",
         htmlContainer: "swal-html-container",
+        icon: "swal-icon",
       },
       iconColor: "#FFCC33",
       showClass: {
@@ -48,6 +49,7 @@ const App = () => {
         confirmButton: "swal-button swal-confirm-button",
         cancelButton: "swal-button swal-cancel-button",
         htmlContainer: "swal-html-container",
+        icon: "swal-icon",
       },
       iconColor: "#FF6B6B",
       showClass: {
@@ -73,6 +75,7 @@ const App = () => {
         confirmButton: "swal-button swal-confirm-button",
         cancelButton: "swal-button swal-cancel-button",
         htmlContainer: "swal-html-container",
+        icon: "swal-icon",
       },
       iconColor: "#FFCC33",
       showClass: {

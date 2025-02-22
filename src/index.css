@@ -7,22 +7,29 @@ body {
 
 .swal-html-container {
   color: #fff;
+  font-size: 12px;
 }
 
 .swal-modal {
   background-color: #232323;
+  width: 250px;
 }
 
 .swal-title {
   color: #fff;
+  font-size: 16px;
+}
+
+.swal-icon {
+  font-size: 12px !important;
 }
 
 .swal-button {
   background-color: transparent !important;
   background-color: #ffcc33 !important;
   color: #000000 !important;
-  padding: 12px 24px !important;
-  font-size: 16px !important;
+  padding: 8px 19px !important;
+  font-size: 14px !important;
   font-weight: normal !important;
   border-radius: 4px !important;
   margin: 10px !important;
